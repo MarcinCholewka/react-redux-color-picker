@@ -7,6 +7,7 @@ import ColorPicker from './components/ColorPicker';
 class App extends Component {
   render() {
     const { start, end } = this.props.gradient;
+
     return (
       <div
         className="App"
