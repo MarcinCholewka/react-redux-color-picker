@@ -1,3 +1,10 @@
+### It's deployed on :     https://react-redux-color-picker.herokuapp.com/
+
+------
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
